@@ -27,7 +27,7 @@
     </td>
     <td valign="middle" align="center" width="50%">
         <p valign="middle" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=BOThiago&show_icons=true&theme=highcontrast&title_color=00ff00&icon_color=00ff00&border_color=00000000&bg_color=00000000&custom_title=&include_all_commits=true" alt="Thiago's GitHub stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=samueltpoj&show_icons=true&theme=highcontrast&title_color=00ff00&icon_color=00ff00&border_color=00000000&bg_color=00000000&custom_title=&include_all_commits=true" alt="Samuel's GitHub stats">
         </p>
     </td>
   </tr>
