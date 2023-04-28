@@ -43,7 +43,7 @@
       </h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,php,mysql,postgres" alt="My Skills" width="70%">
+          <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,cs,java,php,mysql,postgres" alt="My Skills" width="70%">
         </a>
       </p>
     </div>
@@ -64,7 +64,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind,typescript,nodejs,expressjs,nestjs,prisma,mongo,docker" alt="My Skills" >
+        <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind,expressjs,nestjs,prisma,mongo,docker" alt="My Skills" >
       </a>
     </p>
   </div>
