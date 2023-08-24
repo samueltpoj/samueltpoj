@@ -37,17 +37,7 @@
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
   </p>
 </div>
-  <div align="center" style="width:100%">
-    <h3 align="center">
-      Technologies I've worked with 📝
-    </h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,python,arduino" alt="My Skills" >
-      </a>
-    </p>
-  </div>
-  <div align="center" width="100%">
+<div align="center" width="100%">
       <h3 align="center">
         Technologies I Work 💻
       </h3>
@@ -64,6 +54,16 @@
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind,expressjs,nestjs,prisma,mongo,docker" alt="My Skills" >
+      </a>
+    </p>
+  </div>
+  <div align="center" style="width:100%">
+    <h3 align="center">
+      Technologies I've worked with 📝
+    </h3>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,python,arduino" alt="My Skills" >
       </a>
     </p>
   </div>
