@@ -19,7 +19,7 @@
     <td valign="middle" align="center" width="50%">
       <h3>About myself</h3>
       <p valign="middle" align="center">
-        I'm Samuel, a 19-year-old Fullstack developer. I'm currently working in the field, using technologies such as PHP, JS, Java, and C#, while also learning React, Next.js, Node.js, TypeScript, and Prisma. 
+        I'm Samuel, a 20-year-old Fullstack developer. I'm currently working in the field, using technologies such as TS, Vue, Serveless, while also learning C#, Nest.js and Prisma. 
       </p>
       <p valign="middle" align="center">
         In my free time, I enjoy exploring new technologies and experimenting with different programming languages. I believe that keeping up with the latest trends and developments in the industry is essential for staying ahead of the curve and delivering the best possible solutions to clients.
@@ -33,17 +33,12 @@
   </tr>
 </table>
 <div align="center" width="100%">
-  <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
-  </p>
-</div>
-<div align="center" width="100%">
       <h3 align="center">
         Technologies I Work 💻
       </h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,cs,java,php,mysql,postgres" alt="My Skills" width="70%">
+          <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,vue,mysql,postgres,aws" alt="My Skills" width="70%">
         </a>
       </p>
     </div>
@@ -53,7 +48,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind,expressjs,nestjs,prisma,mongo,docker" alt="My Skills" >
+        <img src="https://skillicons.dev/icons?i=nextjs,styledcomponents,nestjs,prisma,mongo,docker" alt="My Skills" >
       </a>
     </p>
   </div>
@@ -63,7 +58,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,python,arduino" alt="My Skills" >
+        <img src="https://skillicons.dev/icons?i=cs,java,c,python,arduino,php,react,tailwind" alt="My Skills" >
       </a>
     </p>
   </div>
